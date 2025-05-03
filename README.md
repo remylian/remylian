@@ -1,6 +1,6 @@
 # Hi there, I'm Remy Lian 👋
 
-I'm a 44-year-old frontend developer and a passionate problem-solver, currently completing my first year of studies at Noroff School of Technology and Digital Media. I love creating responsive, accessible web applications and continuously expanding my skill set. Outside of coding, I'm dedicated to martial arts, enjoy spending quality time with my family, and have a passion for tabletop and PC gaming.
+I'm a 44-year-old frontend developer and a passionate problem-solver, currently doing my second year of studies at Noroff School of Technology and Digital Media. I love creating responsive, accessible web applications and continuously expanding my skill set. Outside of coding, I'm dedicated to martial arts, enjoy spending quality time with my family, and have a passion for tabletop and PC gaming.
 
 ## About Me
 
