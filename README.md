@@ -1,6 +1,6 @@
 # Hi there, I'm Remy Lian 👋
 
-I'm a 44-year-old frontend developer and a passionate problem-solver, currently doing my second year of studies at Noroff School of Technology and Digital Media. I love creating responsive, accessible web applications and continuously expanding my skill set. Outside of coding, I'm dedicated to martial arts, enjoy spending quality time with my family, and have a passion for tabletop and PC gaming.
+I'm an adult frontend developer and a passionate problem-solver, currently doing my second year of studies at Noroff School of Technology and Digital Media. I love creating responsive, accessible web applications and continuously expanding my skill set. Outside of coding, I'm dedicated to martial arts, enjoy spending quality time with my family, and have a passion for tabletop and PC gaming.
 
 ## About Me
 
@@ -39,4 +39,5 @@ Feel free to connect or reach out!
 
 ## GitHub Stats
 
-![Remy Lian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=remylian&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remylian&layout=compact)
+
