@@ -1,6 +1,6 @@
 # Hi, I’m Remy 
 
-I’m a frontend developer finishing my studies at **Noroff**, currently working on my **final project exam**.  
+I’m a frontend developer based in Trondheim, Norway, finishing my studies at **Noroff**, currently working on my **final project exam**.  
 I’m actively applying for junior frontend roles where I can contribute to real products, collaborate with a team, and continue growing as a developer.
 
 ---
