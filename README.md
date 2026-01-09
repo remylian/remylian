@@ -1,43 +1,81 @@
-# Hi there, I'm Remy Lian 👋
+# Hi, I’m Remy 👋
 
-I'm an adult frontend developer and a passionate problem-solver, currently doing my second year of studies at Noroff School of Technology and Digital Media. I love creating responsive, accessible web applications and continuously expanding my skill set. Outside of coding, I'm dedicated to martial arts, enjoy spending quality time with my family, and have a passion for tabletop and PC gaming.
+I’m a frontend developer finishing my studies at **Noroff**, currently working on my **final project exam**.  
+I’m actively applying for junior frontend roles where I can contribute to real products, collaborate with a team, and continue growing as a developer.
 
-## About Me
+---
 
-- 🎓 Frontend Development Student at Noroff School of Technology and Digital Media
-- 💻 Passionate about building dynamic and accessible web experiences using vanilla HTML, CSS, and JavaScript
-- 🥋 Martial arts practitioner – discipline, focus, and resilience are my core values
-- 👨‍👩‍👦 Family is my biggest inspiration and a constant source of balance
-- 🎮 Gamer at heart – I enjoy strategic thinking and creativity through gaming
+## What I work with
 
-## Projects
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- TypeScript
+- React
+- Vite
 
-Here are a few projects that showcase my work:
+**Styling & UI**
+- primarily Tailwind CSS, Optionally Sass/bootstrap
+- Responsive design
+- Component-based UI
+- Accessibility fundamentals
 
-- **[Rainydays](https://norofffeu.github.io/html-css-course-assignment-remylian/)**  
-  An e-commerce website for outdoor jackets. My first project, where I turned a Figma design into a fully responsive multipage website.
+**APIs & Application Logic**
+- REST APIs
+- Async data handling (fetch / promises)
+- CRUD functionality
+- Form handling & validation
+- Basic authentication flows
 
-- **[Community Science Museum](#)**  
-  A modern, accessible web presence designed to excite and entice visitors to explore a museum's exhibits.
+**Workflow & Collaboration**
+- Git & GitHub
+- Agile / Scrum (team projects, Scrum Master experience)
+- Modular and readable code structure
+- Deployment (netlify, vercel, github pages)
+- Working from briefs, requirements, and designs.
 
-- **[The Adventurer's Alehouse](#)**  
-  A responsive blogging interface built for an API-based application that demonstrates my ability to interpret briefs, plan solutions, and execute a dynamic front-end user interface.
+---
 
-## Skills
+## Projects & Portfolio
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Tools & Technologies:** Git, GitHub, VS Code, Responsive Web Design, Accessibility, Flexbox, CSS Grid
-- **Design:** UX/UI, Responsive & Mobile-First Design
+My main projects are documented and showcased here:
 
-## Contact
+**Portfolio:** *(https://remylian.github.io/Portfolio/)*
 
-Feel free to connect or reach out!
+They include:
+- E-commerce / marketplace applications
+- API-driven frontend solutions
+- Dashboard-style applications
+- Team-based school projects built with real-world constraints
 
-- **Email:** [remylian@gmail.com](mailto:remylian@gmail.com)
-- **LinkedIn:** [Remy Lian](https://www.linkedin.com/in/remy-lian-585518a1/)
-- **GitHub:** [github.com/remylian](https://github.com/remylian)
+I focus on **clean structure, maintainability, and meeting requirements**, rather than overengineering.
 
-## GitHub Stats
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remylian&layout=compact)
+## Education Status
 
+- Frontend Development – **Noroff**
+- Currently in **final project / exam phase**
+- Graduation imminent (march 2026)
+
+I’m ready to transition into a professional role and learn quickly in a real development environment.
+
+---
+
+## How I like to work
+
+- I value clarity, structure, and readable code
+- I’m comfortable asking questions and receiving feedback
+- I enjoy working in teams and taking responsibility for my tasks
+- I aim to deliver reliable solutions rather than “clever” ones
+- I’m motivated, curious, and take pride in steady improvement
+
+---
+
+## Get in touch
+
+- GitHub: https://github.com/remylian  
+- Portfolio: *(https://remylian.github.io/Portfolio/)*
+
+---
+
+Thanks for stopping by — feel free to explore my repositories or portfolio.
