@@ -1,4 +1,4 @@
-# Hi, I’m Remy 👋
+# Hi, I’m Remy 
 
 I’m a frontend developer finishing my studies at **Noroff**, currently working on my **final project exam**.  
 I’m actively applying for junior frontend roles where I can contribute to real products, collaborate with a team, and continue growing as a developer.
@@ -73,7 +73,8 @@ I’m ready to transition into a professional role and learn quickly in a real d
 
 ## Get in touch
 
-- GitHub: https://github.com/remylian  
+- GitHub: https://github.com/remylian
+- email: remylian@gmail.com
 - Portfolio: *(https://remylian.github.io/Portfolio/)*
 
 ---
