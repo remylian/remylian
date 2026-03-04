@@ -54,7 +54,7 @@ I focus on **clean structure, maintainability, and meeting requirements**, rathe
 ## Education Status
 
 - Frontend Development – **Noroff**
-- Currently in **final project / exam phase**
+- Currently in **final project phase**
 - Graduation imminent (march 2026)
 
 I’m ready to transition into a professional role and learn quickly in a real development environment.
