@@ -1,6 +1,6 @@
 # Hi, I’m Remy 
 
-I’m a frontend developer based in Trondheim, Norway, currently finishing my studies at **Noroff**.  
+I’m a frontend developer based in Trondheim, Norway, recentle graduated from my studies at **Noroff**.  
 I’m actively applying for junior frontend roles where I can contribute to real products, collaborate with a team, and continue growing as a developer.
 
 ---
@@ -41,12 +41,6 @@ My main projects are documented and showcased here:
 
 **Portfolio:** *(https://remylian.github.io/Portfolio/)*
 
-They include:
-- E-commerce / marketplace applications
-- API-driven frontend solutions
-- Dashboard-style applications
-- Team-based school projects built with real-world constraints
-
 I focus on **clean structure, maintainability, and meeting requirements**, rather than overengineering.
 
 ---
@@ -54,8 +48,7 @@ I focus on **clean structure, maintainability, and meeting requirements**, rathe
 ## Education Status
 
 - Frontend Development – **Noroff**
-- Currently in **final project phase**
-- Graduation imminent (march 2026)
+- Recently graduated (march 2026)
 
 I’m ready to transition into a professional role and learn quickly in a real development environment.
 
