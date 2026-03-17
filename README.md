@@ -1,6 +1,6 @@
 # Hi, I’m Remy 
 
-I’m a frontend developer based in Trondheim, Norway, recentle graduated from my studies at **Noroff**.  
+I’m a frontend developer based in Trondheim, Norway, recently graduated from my studies at **Noroff**.  
 I’m actively applying for junior frontend roles where I can contribute to real products, collaborate with a team, and continue growing as a developer.
 
 ---
