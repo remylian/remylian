@@ -39,7 +39,7 @@ I’m actively applying for junior frontend roles where I can contribute to real
 
 My main projects are documented and showcased here:
 
-**Portfolio:** *(https://remylian.github.io/Portfolio/)*
+**Portfolio:** *(https://www.remylian.com/)*
 
 I focus on **clean structure, maintainability, and meeting requirements**, rather than overengineering.
 
