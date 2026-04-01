@@ -68,7 +68,7 @@ I’m ready to transition into a professional role and learn quickly in a real d
 
 - GitHub: https://github.com/remylian
 - email: remylian@gmail.com
-- Portfolio: *(https://remylian.github.io/Portfolio/)*
+- Portfolio: *(https://www.remylian.com/)*
 
 ---
 
